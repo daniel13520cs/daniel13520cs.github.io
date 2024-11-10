@@ -18,9 +18,9 @@ skin: "/assets/css/skins/default.css"
 locale: en-US
 title: "Chih-Chien's Technical Blog"
 description: "Share thoughts about backend technologies"
-baseurl: "/posts" # the subpath of your site, e.g. "/blog"
+baseurl: "/homes" # the subpath of your site, e.g. "/blog"
 url: "https://daniel13520cs.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-logo: # path of site logo, e.g. "/images/logo.png"
+logo: "docs/images/profile.jpg" # path of site logo, e.g. "/images/logo.png"
 date_format: "%B %-d, %Y"
 read_time: # reading time estimates, e.g. true
 words_per_minute: # 200
