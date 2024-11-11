@@ -12,6 +12,8 @@ tags:
 
 Welcome to the Django Learning Resource Management App! This application allows users to manage learning resources, including creating, updating, deleting, and viewing resource details. Below is a guide on how to interact with the app and its features.
 
+Try it on! [Demo](https://chihchienhsiao.azurewebsites.net/)
+
 ## Features
 
 - **User Authentication**: Sign up, log in, and log out .
