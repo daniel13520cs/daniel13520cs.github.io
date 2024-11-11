@@ -1,14 +1,16 @@
 ---
 title: "Learning Resources Management Web"
-image: 
-  path: /images/LearningResourcesWeb.png
-  thumbnail: /images/LearningResourcesWeb.png
 categories:
-  - Backend
 tags:
   - project
   - web
+author:
+  name: "ChihChien Hsiao"
+  picture: "/images/profile.jpg"
+  image: "/images/profile.jpg"
 ---
+
+
 
 # My Django Learning Resource Management App
 
@@ -23,7 +25,7 @@ Welcome to the Django Learning Resource Management App! This application allows 
 - **Responsive Design**: Mobile-friendly interface.
 - **Opt-In for Public Events**: Users can opt-in to public learning resources published by other users.
 - **Recommendations for Opt-In Events**: Top recommendation learning resources are shown to users based on their opt-in events.
-- 
+  
 ## System Design 
 
 ![](../images/LearningResourcesWeb.png)
