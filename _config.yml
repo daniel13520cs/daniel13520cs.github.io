@@ -90,14 +90,16 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name: "Chih-Chien Hsiao"  # The author's name
+  picture: "/images/profile.jpg"  # The path to the author's profile picture
   links:
-    - title:
-      url:
-      icon:
+    - title: "GitHub"  # Title of the external link
+      url: "https://github.com/daniel13520cs"  # The URL to the author's GitHub profile
+      icon: "fab fa-github"  # FontAwesome icon class for GitHub
+    - title: "LinkedIn"  # Title of the external link
+      url: "https://www.linkedin.com/in/chihchienhsiao/"  # The URL to the author's LinkedIn profile
+      icon: "fab fa-linkedin"  # FontAwesome icon class for LinkedIn
+
 
 # Footer Links
 footer_links:
