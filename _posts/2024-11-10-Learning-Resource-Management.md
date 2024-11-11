@@ -4,10 +4,6 @@ categories:
 tags:
   - project
   - web
-author:
-  name: "ChihChien Hsiao"
-  picture: "/images/profile.jpg"
-  image: "/images/profile.jpg"
 ---
 
 
