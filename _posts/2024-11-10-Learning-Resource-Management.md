@@ -4,7 +4,7 @@ image:
   path: /images/LearningResourcesWeb.png
   thumbnail: /images/LearningResourcesWeb.png
 categories:
-  - Backen
+  - Backend
 tags:
   - project
   - web
@@ -28,13 +28,12 @@ Welcome to the Django Learning Resource Management App! This application allows 
 
 ![](../images/LearningResourcesWeb.png)
 
-
 ## Usage
 
 ### User Authentication
 
 - **Sign Up**: Create a new account by clicking on the "Sign Up" button on the homepage.
-  ![Sign Up](../images/signup-image.png)
+  ![Sign Up](../images/signupImage.png)
 
 - **Log In**: Access your account by entering your credentials.
   ![Log In](../images/login-image.png)
