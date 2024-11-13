@@ -32,13 +32,7 @@ RESTFUL API are generally implemented in web services and thoses that implement 
 
 ## Example
 
-| **HTTP Method** | **Endpoint URL**               | **Description**                          | **Example curl Command**                                                                                         |
-|-----------------|--------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
-| **GET**         | `/items`                       | Retrieve all items                       | `curl -X GET http://127.0.0.1:5000/items`                                                                         |
-| **GET**         | `/items/<item_id>`             | Retrieve a single item by ID             | `curl -X GET http://127.0.0.1:5000/items/1`                                                                      |
-| **POST**        | `/items`                       | Create a new item                        | `curl -X POST http://127.0.0.1:5000/items -H "Content-Type: application/json" -d "{\"name\":\"New Item\",\"price\":12.99}"` |
-| **PUT**         | `/items/<item_id>`             | Update an existing item by ID            | `curl -X PUT http://127.0.0.1:5000/items/1 -H "Content-Type: application/json" -d "{\"name\":\"Updated Item\",\"price\":14.99}"` |
-| **DELETE**      | `/items/<item_id>`             | Delete an item by ID                     | `curl -X DELETE http://127.0.0.1:5000/items/1`                                                                   |
+![restful-example](https://daniel13520cs.github.io/images/restful-example.png)
 
 ## Summary
 
