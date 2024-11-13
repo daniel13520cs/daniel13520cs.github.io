@@ -1,6 +1,8 @@
 ---
 title: "Introduciton of RESTFUL API"
 categories:
+image: 
+  thumbnail: ../images/restful-api.jpg
 tags:
   - api
   - backend

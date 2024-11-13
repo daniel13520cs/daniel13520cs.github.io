@@ -1,6 +1,9 @@
 ---
 title: "The evolution of MVVM pattern"
 categories:
+image: 
+  path: ../images/mvc-pattern.png
+  thumbnail: ../images/mvc-pattern.png
 tags:
   - design pattern
   - UI

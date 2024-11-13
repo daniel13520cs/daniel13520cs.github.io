@@ -1,6 +1,8 @@
 ---
 title: "Learning Resources Management Web"
 categories:
+image: 
+  thumbnail: ../images/LearningResourcesWeb.png
 tags:
   - project
   - web
