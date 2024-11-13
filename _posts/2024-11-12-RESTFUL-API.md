@@ -42,4 +42,4 @@ RESTFUL API are generally implemented in web services and thoses that implement 
 
 A RESTful Web API offers a standardized approach that meets the demands of modern web applications, providing scalability and ease of maintenance.
 
-Thank you for reading this blog!
+{% include EndBlog.md %}
