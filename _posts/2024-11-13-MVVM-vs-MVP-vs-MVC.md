@@ -14,7 +14,7 @@ tags:
 MVC (Model-View-Controller) is a UI architecture pattern that separates an application into three interconnected components: the Model (handles data), the View (displays the user interface), and the Controller (manages user input and updates the Model and View accordingly).
 
 ### MVC
-![MVCPattern](../images/mvc-pattern.png)
+![MVCPattern](https://daniel13520cs.github.io/images/mvc-pattern.png)
 >In MVC, the Controller often has knowledge of the View's implementation details, creating tight coupling
 that can lead to poor scalability and testability.
 
@@ -23,7 +23,7 @@ that can lead to poor scalability and testability.
 MVP (Model-View-Presenter) is a design pattern where the Presenter handles the logic and updates the View, while the View remains passive and only displays data, promoting a clearer separation of concerns.
 
 ### MVP
-![MVPPattern](../images/mvp-pattern.png)
+![MVPPattern](https://daniel13520cs.github.io/images/mvp-pattern.png)
 >In MVP, The Presenter is aware of the existence of View, but does not contain the knowledge of the
 View's implementation details, createing ligter coupling.
 
@@ -32,13 +32,13 @@ View's implementation details, createing ligter coupling.
 MVVM(Model-View-ViewModel) is a UI architecture pattern that seperates presentation logic and business logic from the user interface.
 
 ### MVVM
-![mvvmPattern](../images/mvvm-pattern.png)
+![mvvmPattern](https://daniel13520cs.github.io/images/mvvm-pattern.png)
 >From the diagram above, ViewModel is unaware of the existence of View and so does Model is unaware of
 the existence of ViewModel. This architecture prevents frequent UI changes that causes subsequent
 changes to ViewModel and Model, where business logic and data are stored.
 
 ### `Reversed MVVM (My idea)`
-![mvvmReverse](../images/mvvm-reverse.png)
+![mvvmReverse](https://daniel13520cs.github.io/images/mvvm-reverse.png)
 >`My Idea`: If the application needs frequent updates to its business logic but the UI remains relatively consistent, this architecture could be an ideal solution.
 
 ---
