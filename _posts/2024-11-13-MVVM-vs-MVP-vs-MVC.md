@@ -35,7 +35,7 @@ the existence of ViewModel. This architecture prevents frequent UI changes that 
 changes to ViewModel and Model, where business logic and data are stored.
 
 ### `Reversed MVVM (My idea)`
-![mvvmReverse](../images/mvvmReverse.png)
+![mvvmReverse](../images/mvvm-reverse.png)
 >`My Idea`: If the application needs frequent updates to its business logic but the UI remains relatively consistent, this architecture could be an ideal solution.
 
 ---
