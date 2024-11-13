@@ -38,7 +38,6 @@ changes to ViewModel and Model, where business logic and data are stored.
 ![mvvmReverse](../images/mvvmReverse.png)
 >`My Idea`: If the application needs frequent updates to its business logic but the UI remains relatively consistent, this architecture could be an ideal solution.
 
-
 ---
 
 ## MVC vs MVP vs MVVM Comparison
