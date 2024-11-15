@@ -76,19 +76,18 @@
   padding: 0;
   @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
   font-weight: 700;
-
-  a {
-    text-decoration: none;
-  }
+  width: 100%; /* This will make the site-title take the full width of its container */
 }
 
 .site-description {
-  margin-bottom: 1em;
+  margin: 0 auto 1em; /* This centers the .site-description */
   font-family: $description-font-family;
   @include fluid-type($min-vw, $max-vw, $h5-min, $h5-max);
-  font-weight: 400;
+  font-weight: 4;
   font-style: italic;
+  width: 50%; /* This will make the site-description match the width of site-title */
 }
+
 
 .site-logo {
   display: inline-block;
