@@ -76,6 +76,9 @@
   padding: 0;
   @include fluid-type($min-vw, $max-vw, $h2-min, $h2-max);
   font-weight: 700;
+  a {
+    text-decoration: none;
+  }
   width: 100%; /* This will make the site-title take the full width of its container */
 }
 
