@@ -2,8 +2,7 @@
 title: "React Performance enhancement"
 categories:
 image: 
-  path: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bdvQaZIn0hCCG4O_XnRxsA.png
-  thumbnail: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bdvQaZIn0hCCG4O_XnRxsA.png
+
 tags:
   - design pattern
   - UI
@@ -11,6 +10,11 @@ tags:
 
 React Performance enhancement
 =============================
+
+In the last post, I talked about React essentials.
+ [React Essentials](https://daniel13520cs.github.io/React-Essentials/)
+
+![captionless image](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bdvQaZIn0hCCG4O_XnRxsA.png)
 
 In this article, I will explain how data flows in a React application, triggers re-rendering, and explore ways to optimize React re-rendering performance.
 
