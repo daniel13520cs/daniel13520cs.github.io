@@ -2,7 +2,8 @@
 title: "React Performance enhancement"
 categories:
 image: 
-
+  path: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bdvQaZIn0hCCG4O_XnRxsA.png
+  thumbnail: https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bdvQaZIn0hCCG4O_XnRxsA.png
 tags:
   - design pattern
   - UI
